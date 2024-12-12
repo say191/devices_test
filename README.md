@@ -24,3 +24,4 @@
 6. Выполните миграции базы данных -  python manage.py migrate
 7. Создайте суперпользователя для тестирования сервиса - python manage.py createsuperuser
 8. Запустите сервер разработки - python manage.py runserver
+9. Для тестирования CRUD-операции для моделей Device и DeviceModel с использованием Django REST Framework (DRF) необходимо получить токен по эндпоинту get-token
